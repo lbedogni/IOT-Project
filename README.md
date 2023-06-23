@@ -1,6 +1,8 @@
-# IOT Project
+# IOT Project (Mattia Savoia)
 
 ## Evaluating performance of TinyML on heterogeneous devices
+
+Project by Mattia Savoia (@mattiasavoia)
 
 The <b>report/IOT_report.pdf</b> file contains the report of the project results obtained.
 
